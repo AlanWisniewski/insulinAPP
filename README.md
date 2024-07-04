@@ -28,9 +28,3 @@ The last page allows you to configure settings for more precise calculations per
 
 ![image](https://github.com/AlanWisniewski/insulinAPP/assets/37334261/f802f179-e737-4eb1-8a18-619d8b5f5815)
 
-
-
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
