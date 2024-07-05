@@ -1,6 +1,6 @@
 # insulinapp
 
-This project in the Flutter framework involves the implementation of a mobile application that assists diabetics in managing diabetes.
+This project in the Flutter framework involves the implementation of a mobile application that assists diabetics in managing diabetes. The project was created as a part of an engineering thesis at university. The application is still very early under development, and its documentation (which is essentially the engineering thesis) is available upon request.
 
 ## Features
 
