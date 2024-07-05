@@ -1,7 +1,6 @@
 # insulinapp
 
-This project in the Flutter framework involves the implementation of a mobile application that assists diabetics in managing diabetes. The project was created as a part of an engineering thesis at university. The application is still very early under development, and its documentation (which is essentially the engineering thesis) is available upon request.
-
+This project, developed using the Flutter framework, involves the implementation of a mobile application to assist diabetics in managing their condition. It was created as part of an engineering thesis at university. The application is still in the early stages of development, and its documentation (which is essentially the engineering thesis) is available upon request.
 ## Features
 
 Homepage consists of basic informations about insulin dosages, and provides two buttons to measure certain health parameters.
@@ -17,6 +16,7 @@ The search button redirects us to a page where you can find particular foods and
 ![image](https://github.com/AlanWisniewski/insulinAPP/assets/37334261/db3da9a9-a990-4a7e-b580-fc3aa1544743)
 
 By clicking the "plus" button, you can add a desired product to a database
+
 ![image](https://github.com/AlanWisniewski/insulinAPP/assets/37334261/a4749af2-51da-40a4-a231-adba86f1cf53)
 
 The "diary" button lets you summarize the food added to it, change it if needed and finally calculate a dosage of insulin needed for that particular dish
@@ -27,4 +27,11 @@ The "diary" button lets you summarize the food added to it, change it if needed 
 The last page allows you to configure settings for more precise calculations performed by the application
 
 ![image](https://github.com/AlanWisniewski/insulinAPP/assets/37334261/f802f179-e737-4eb1-8a18-619d8b5f5815)
+
+The application retrieves data about food from a CSV file and then transfers it to a database table, which also stores user-added dishes.
+Below is the structure of the "food" table:
+
+![image](https://github.com/AlanWisniewski/insulinAPP/assets/37334261/eab6f256-6719-43e0-8add-9518a75c5a62)
+
+The database also stores user settings and bolus data. Everything works under sqflite package.
 
