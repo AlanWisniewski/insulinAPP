@@ -15,13 +15,13 @@ The search button redirects us to a page where you can find particular foods and
 ![image](https://github.com/AlanWisniewski/insulinAPP/assets/37334261/a14b0239-17ff-4cba-8684-43b50e87e719)
 ![image](https://github.com/AlanWisniewski/insulinAPP/assets/37334261/db3da9a9-a990-4a7e-b580-fc3aa1544743)
 
-By clicking the "plus" button, you can add a desired product to a database
+By clicking the "plus" button, you can add a desired product to the database
 
 ![image](https://github.com/AlanWisniewski/insulinAPP/assets/37334261/a4749af2-51da-40a4-a231-adba86f1cf53)
 
 The "diary" button lets you summarize the food added to it, change it if needed and finally calculate a dosage of insulin needed for that particular dish
 
-![image](https://github.com/AlanWisniewski/insulinAPP/assets/37334261/b4123990-a9e9-415f-b1a6-5844c73d0f1c)
+![image](https://github.com/user-attachments/assets/c61ba6a2-ca59-4a6e-98e9-fbfe723aa30c)
 ![image](https://github.com/AlanWisniewski/insulinAPP/assets/37334261/80d6c857-98d9-492f-a39b-050853cd5dc9)
 
 The last page allows you to configure settings for more precise calculations performed by the application
